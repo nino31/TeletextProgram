@@ -33,7 +33,7 @@ namespace TeletextProgramFAB
 
             if (i != 0)
             {
-                FABClasses.CommunicationFAB.WriteToPageLine(i, "Test", red);
+                FABClasses.CommunicationFAB.WriteToPageLine(i, "\x0003Test", red);
             }
         }
     }
