@@ -1,0 +1,12 @@
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\bin\Release\TeletextProgramFAB.exe.config
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\bin\Release\TeletextProgramFAB.exe
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\bin\Release\TeletextProgramFAB.pdb
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\obj\Release\MainWindow.baml
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\obj\Release\MainWindow.g.cs
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\obj\Release\App.g.cs
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\obj\Release\TeletextProgramFAB_MarkupCompile.cache
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\obj\Release\TeletextProgramFAB.g.resources
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\obj\Release\TeletextProgramFAB.Properties.Resources.resources
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\obj\Release\TeletextProgramFAB.csproj.GenerateResource.Cache
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\obj\Release\TeletextProgramFAB.exe
+C:\Users\Ivan\Documents\GitHub\TeletextProgram\TeletextProgramFAB\TeletextProgramFAB\obj\Release\TeletextProgramFAB.pdb

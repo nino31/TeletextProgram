@@ -23,6 +23,18 @@ namespace TeletextProgramFAB
         public MainWindow()
         {
             InitializeComponent();
+            FABClasses.CommunicationFAB.OpenProgramFABTeletextEditor();
+        }
+
+        private void btnTest_Click(object sender, RoutedEventArgs e)
+        {
+            int i = FABClasses.CommunicationFAB.OpenSession();
+            int red = 3;
+
+            if (i != 0)
+            {
+                FABClasses.CommunicationFAB.WriteToPageLine(i, "Test", red);
+            }
         }
     }
 }
