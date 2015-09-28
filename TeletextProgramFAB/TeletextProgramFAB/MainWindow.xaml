@@ -4,6 +4,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Button x:Name="btnTest" Content="Button" HorizontalAlignment="Left" Margin="284,113,0,0" VerticalAlignment="Top" Width="141" Height="78" Click="btnTest_Click"/>
+        <Label Content="Test GitHuba" HorizontalAlignment="Left" Margin="75,48,0,0" VerticalAlignment="Top" Width="165"/>
 
     </Grid>
 </Window>
